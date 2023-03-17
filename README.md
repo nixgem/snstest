@@ -1,0 +1,2 @@
+# snstest
+Simple Notification Service
